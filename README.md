@@ -9,7 +9,7 @@
 
 ## 公開先
 
-- 公開 URL：<https://ts-ksato.github.io/novelgame01/>
+- 公開 URL：<https://ts-ksato.github.io/adv01/>
 - 公開元：GitHub Pages。`main` ブランチのリポジトリ直下を公開しています
 
 ## 対応環境
